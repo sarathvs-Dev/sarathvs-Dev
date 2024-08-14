@@ -1,9 +1,8 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/software-development-coding-process-concept-260nw-1396210841.jpg)](https://sarathvs-dev.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/015/952/352/small_2x/wed-developer-and-programmer-coding-on-augmented-reality-screen-premium-vector.jpg)](https://sarathvs-dev.io)
 <h1 align="center">Hi 👋, I'm SARATH V S</h1>
 <h3 align="center">Motivated Software Engineer with almost 2 years of experience in developing front-end and back-end components of web applications. Seeking a position in a growth-oriented company to utilize and expand my skills in software development and contribute to the company's success</h3>
 
 
-<img align="right" src="https://static.vecteezy.com/system/resources/thumbnails/015/952/352/small_2x/wed-developer-and-programmer-coding-on-augmented-reality-screen-premium-vector.jpg" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathvs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarathvs-dev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
