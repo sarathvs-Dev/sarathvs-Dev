@@ -5,11 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathvs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarathvs-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathvs-dev" alt="sarathvs-dev" /></a> </p>
-
-- 💬 Ask me about **Collaborated with stakeholders to gather functional and technical requirements.
--  ● Integrated RESTful web services across multiple projects.
--   ● Developed and maintained web applications using React JS and Vue JS. ● Ensured cross-browser compatibility and optimized application performance. ● Participated in Agile processes, including sprint planning and daily stand-ups.**
 
 - 📫 How to reach me **sarathvs124@gmail.com**
 
