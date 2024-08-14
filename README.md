@@ -1,9 +1,15 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/015/952/352/small_2x/wed-developer-and-programmer-coding-on-augmented-reality-screen-premium-vector.jpg)](https://sarathvs-dev.io)
+
 <h1 align="center">Hi 👋, I'm SARATH V S</h1>
 <h3 align="center">Motivated Software Engineer with almost 2 years of experience in developing front-end and back-end components of web applications. Seeking a position in a growth-oriented company to utilize and expand my skills in software development and contribute to the company's success</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathvs-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sarathvs-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathvs-dev" alt="sarathvs-dev" /></a> </p>
+
+- 💬 Ask me about **Collaborated with stakeholders to gather functional and technical requirements. ● Integrated RESTful web services across multiple projects. ● Developed and maintained web applications using React JS and Vue JS. ● Ensured cross-browser compatibility and optimized application performance. ● Participated in Agile processes, including sprint planning and daily stand-ups.**
+
+- 📫 How to reach me **sarathvs124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
